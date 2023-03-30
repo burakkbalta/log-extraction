@@ -1,0 +1,10 @@
+2023-03-30 15:51:20,237 - INFO - Example log #1
+2023-03-30 15:51:20,762 - WARNING - Example log #2
+2023-03-30 15:51:21,317 - INFO - Example log #3
+2023-03-30 15:51:22,858 - INFO - Example log #4
+2023-03-30 15:51:22,903 - ERROR - Example log #5
+2023-03-30 15:51:22,948 - ERROR - Example log #6
+2023-03-30 15:51:23,106 - ERROR - Example log #7
+2023-03-30 15:51:23,456 - ERROR - Example log #8
+2023-03-30 15:51:24,012 - INFO - Example log #9
+2023-03-30 15:51:25,345 - WARNING - Example log #10
